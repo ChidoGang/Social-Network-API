@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/ChidoGang/Social-Network-API#readme",
   "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5",
     "node.js": "0.0.1-security"
-  }
+  },
+  "devDependencies": {}
 }
