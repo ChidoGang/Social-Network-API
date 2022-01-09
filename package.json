@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ChidoGang/Social-Network-API/issues"
   },
-  "homepage": "https://github.com/ChidoGang/Social-Network-API#readme"
+  "homepage": "https://github.com/ChidoGang/Social-Network-API#readme",
+  "dependencies": {
+    "node.js": "0.0.1-security"
+  }
 }
